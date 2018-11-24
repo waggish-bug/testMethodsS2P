@@ -104,3 +104,9 @@ my-env/
 
 # mypy
 .mypy_cache/
+
+# Workspaces
+workspace_demos/
+workspace101/
+.eclipse
+eclipse/
