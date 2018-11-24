@@ -71,6 +71,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+ipython_notebooks/
 
 # pyenv
 .python-version
